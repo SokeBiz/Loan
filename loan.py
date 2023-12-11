@@ -1,5 +1,5 @@
 import mysql.connector as connection
-mydb = connection.connect(host="127.0.0.1", user="root", password="A1482004Sodeeq", database="cooperative")
+mydb = connection.connect(host="127.0.0.1", user="root", password="", database="cooperative")
 mycursor = mydb.cursor()
 
         # Creating the Database
